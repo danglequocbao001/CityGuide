@@ -1,0 +1,4 @@
+#Thu Oct 08 00:40:56 GMT+07:00 2020
+base.0=C\:\\Users\\AN515-54\\AndroidStudioProjects\\CityGuide\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
