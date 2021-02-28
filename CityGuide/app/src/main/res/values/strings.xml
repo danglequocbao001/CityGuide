@@ -1,0 +1,137 @@
+<resources>
+
+    <string name="app_name">CityGuide</string>
+    <string name="logo_name">Get A Way </string>
+    <string name="slogan_name">We will help you to find your way!</string>
+    <string name="powered_by">©Copyright 2020™ By Bao Dang &amp; Coding With Tea</string>
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+    <string name="fifth_slide_title">Bao L.Q Dang </string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city. We will display specific or all related shops to match your search.</string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us. You can perform bookings as well.</string>
+    <string name="third_slide_desc">If you have a shop or somethings and want to be a part of our growing industry then add your place by following simple steps.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you don\'t have to worry about anything.</string>
+    <string name="fifth_slide_desc">Form Mr.Bao Dang aka Win with LOVE</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="previous_btn">Previous</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    <!--Mode by me-->
+    <string name="swipe_zone">swipe_zone</string>
+    <string name="text_view">TextView</string>
+    <string name="TODO"> </string>
+    <string name="Null"> </string>
+    <string name="first">First!</string>
+    <string name="second">Second!</string>
+    <string name="third">Third!</string>
+
+    <!-- Strings for Dashboard -->
+    <!-- Categories -->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="educations">Educations</string>
+
+    <!-- Titles and Descriptions -->
+    <string name="featured_locations">All Featured Locations</string>
+    <string name="featured_locations_description">All the locations that are featured and have the top demand in town!</string>
+    <string name="most_view_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="memories">Memories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search&#8230;</string>
+
+    <!-- Stores name -->
+    <string name="kfc">KFC</string>
+
+    <!-- Main menu Strings -->
+
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_place">ADD MISSING PLACE</string>
+    <string name="xml_profile">Profile</string>
+    <string name="login">LOGIN</string>
+    <string name="profile">PROFILE</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="xml_categories">Categories</string>
+    <string name="xml_share">Share</string>
+    <string name="share">SHARE</string>
+    <string name="rate_us">RATE US</string>
+
+    <!-- Menu Header Strings -->
+
+    <!-- All Categories Strings -->
+    <string name="car_rent">Car Rent</string>
+    <string name="expand_all">EXPAND ALL</string>
+    <string name="hospitals">Hospitals</string>
+
+    <!-- TODO: Retailer Panel Strings -->
+    <string name="retailer_heading">grow your business</string>
+    <string name="retailer_tag_line">We will help you to grow your business using online services!</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="how_we_work">HOW WE WORK?</string>
+
+    <!-- Retailer Login Strings -->
+    <string name="enter_username">Username</string>
+    <string name="enter_password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">FORGET PASSWORD</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+
+    <!-- Retailer SignIn Strings -->
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="have_an_account_yet">Already have an Account? Log in </string>
+    <string name="enter_full_name">Full Name</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_phone_number">Phone Number</string>
+    <string name="choose_gender">Choose Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="select_your_age">Select Your Age</string>
+
+    <!-- OTP Screen -->
+    <string name="otp_code_text">Code</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Enter one time password sent on\n+84355841815</string>
+    <string name="otp_verify_code_text">VERIFY CODE</string>
+
+    <!-- Forget Password Strings -->
+    <string name="forget_password_detail">Provide your accoun\'s email for which you want to reset your password!</string>
+    <string name="make_selection_detail">Select which contact detail should we use to reset your password</string>
+    <string name="make_selection">make selection</string>
+    <string name="via_sms">via sms: </string>
+    <string name="my_phone_number">+84355841815</string>
+    <string name="via_email">via email: </string>
+    <string name="my_email_address">danglequocbao\n001@gmail.com</string>
+
+    <!-- New Password Strings -->
+    <string name="new_credentials">New Credentials</string>
+    <string name="new_credentials_detail">Your identity has been verified!\nSet your new password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="done">done</string>
+
+    <!-- Forget Password Success Message Strings -->
+    <string name="password_updated">Password Updated</string>
+    <string name="password_updated_success_message">Your password has been updated!</string>
+
+    <!-- Account Created Success Message Strings -->
+    <string name="account_created">Account Created</string>
+    <string name="account_created_success_message">Your account has been created!</string>
+
+</resources>
