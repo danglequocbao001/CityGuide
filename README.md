@@ -1,3 +1,3 @@
 # CityGuide
 
-First android project, spent 3 months worked
+First android project, spent 1,5 months worked
